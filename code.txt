@@ -6,6 +6,7 @@ if (brain!=empty)
 else
 {
 OrderCoffee();
+cupcakes();
 }
 return brain;
 Into the previous code
